@@ -75,11 +75,11 @@
 
 评测性能时，本任务主要采用宏平均F1值作为评价标准，即对每一类计算F1值，最后取算术平均值，其计算方式如下：
 $$
-Macro_{F1}=\frac{1}{n}\sum_{i=1}^{n}F1_{i}
+Macro_{F1} = \frac{1}{n} \sum_{i=1}^{n} F1_{i}
 $$
 
 
-其中 ![img](file:///C:/Users/16662/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) 为第i类的F1值，n为类别数，在本任务中n取12。
+其中$F1_i$为第i类的$F1$值，n为类别数，在本任务中n取12。
 
 ## 4 提交方式
 
