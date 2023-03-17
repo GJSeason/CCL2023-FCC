@@ -77,7 +77,7 @@
 
 $$ Macro_{F1} = \frac{1}{n} \sum_{i=1}^{n} F1_{i} $$
 
-其中 $ F1_{i} $ 为第i类的 $ F1 $ 值，n为类别数，在本任务中n取12。
+其中 $ {F1}_{i} $ 为第i类的 $ {F1} $ 值，n为类别数，在本任务中n取12。
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
