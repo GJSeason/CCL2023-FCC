@@ -2,7 +2,7 @@
 
 ##### 组织者：孙承杰 sunchengjie@hit.edu.cn
 
-##### 负责人：纪杰 jijie@insun.hit.edu.cn
+##### 负责人：孙承杰 sunchengjie@hit.edu.cn
 
 ##### 联系人：纪杰 jijie@insun.hit.edu.cn
 
