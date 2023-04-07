@@ -1,10 +1,8 @@
 # CCL 2023 电信网络诈骗案件分类评测
 
-##### 组织者：孙承杰 sunchengjie@hit.edu.cn
+##### 组织者：刘秉权、孙承杰（哈尔滨工业大学， sunchengjie@hit.edu.cn）
 
-##### 负责人：孙承杰 sunchengjie@hit.edu.cn
-
-##### 联系人：纪杰 jijie@insun.hit.edu.cn
+##### 联系人：纪杰 （哈尔滨工业大学硕士生，jijie@insun.hit.edu.cn）
 
 ## 目录
 
