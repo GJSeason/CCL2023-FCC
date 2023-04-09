@@ -101,7 +101,12 @@ $$ Macro_{F1} = \frac{1}{n} \sum_{i=1}^{n} F1_{i} $$
 
 ## 4 Baseline
 
-Baseline 主要采用 TextCNN、Bert 模型，具体介绍详见参考文献\[6][7]。
+Baseline 主要采用 TextCNN、Bert 模型，具体介绍详见参考文献\[6][7]。实验效果如下，以供参考。
+
+| Model   | Macro Avg F1 |
+| ------- | ------------ |
+| TextCNN | 0.8464       |
+| Bert    | 0.8503       |
 
 ## 5 报名方式
 
