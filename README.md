@@ -122,7 +122,7 @@ Baseline 主要采用 TextCNN、Bert 模型，具体介绍详见参考文献\[6]
 
 > 评测网址：https://codalab.lisn.upsaclay.fr/competitions/12558?secret_key=a9a7799f-c951-4c1d-bab7-7c3b82dfd402
 
-打开后，点击 Participate，勾选确认阅读评测规则，提交审核（这里将根据报名表中填写的 codalab 用户名进行审核）。
+打开后，点击 Participate，勾选已阅读评测规则，提交审核（这里将根据报名表中填写的 codalab 用户名进行审核）。
 
 审核通过后，点击 Participate --> Files --> Public Data，即可下载本次评测数据。
 
