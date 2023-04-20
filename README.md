@@ -165,7 +165,7 @@ Baseline 主要采用 TextCNN、Bert 模型，具体介绍详见参考文献\[6]
 - 二等奖：0-2名
 - 三等奖：0-3名
 
-评测中内容和写作质量均佳的技术报告（中\英）将被 CCL Anthology 和 ACL Anthology 收录。
+评测中内容和写作质量均佳的技术报告（中\英）将有机会被 CCL Anthology 和 ACL Anthology 收录。
 
 ## 10 参考文献
 
