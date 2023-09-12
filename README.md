@@ -194,14 +194,40 @@ Baseline 主要采用 TextCNN、Bert 模型，具体介绍详见参考文献\[6]
 本次评测的具体规则如下：
 
 1. 评测数据仅供以下用途使用： (1) 参赛者在本次评测中使用。 (2) 高校、科研机构在科学研究中使用。
+
 2. 评测数据禁止用于任何商业目的，不提供任何形式的商业授权。除了在参与本次评测的过程中为参赛而使用本数据集，公司或其他商业机构禁止使用本数据集。
-3. 使用评测数据进行科学研究，发表论文或其他材料时应注明来源信息，如：“本研究使用了哈尔滨工业大学组织的CCL2023 电信网络诈骗案件分类评测提供的数据集”，并在参考文献中引用版权所有者的评测报告论文（**请关注举办方后续的论文发表情况**）。
+
+3. 使用评测数据进行科学研究，发表论文或其他材料时应注明来源信息，如：“本研究使用了哈尔滨工业大学组织的CCL2023 电信网络诈骗案件分类评测提供的数据集”，并在参考文献中引用版权所有者的评测报告论文（**Overview 报告已发表：https://aclanthology.org/2023.ccl-3.21/**）。
+
+   ```
+   @inproceedings{sun-etal-2023-ccl23,
+       title = "{CCL}23-Eval 任务6总结报告:电信网络诈骗案件分类(Overview of {CCL}23-Eval Task 6: Telecom Network Fraud Case Classification)",
+       author = "Sun, Chengjie  and
+         Ji, Jie  and
+         Shang, Boyue  and
+         Liu, Binguan",
+       booktitle = "Proceedings of the 22nd Chinese National Conference on Computational Linguistics (Volume 3: Evaluations)",
+       month = aug,
+       year = "2023",
+       address = "Harbin, China",
+       publisher = "Chinese Information Processing Society of China",
+       url = "https://aclanthology.org/2023.ccl-3.21",
+       pages = "193--200",
+   }
+   ```
+
 4. 非本评测提供的数据必须可以开源获取，并应在论文中说明或以其他方式向评测组织方公开，不得使用闭源及私有数据。
+
 5. 参赛者禁止注册多账户报名，经发现将取消成绩并严肃处理。
+
 6. 参赛者禁止在指定考核技术能力的范围外利用规则漏洞或技术漏洞等不良途径提高成绩排名，经发现将取消成绩并严肃处理。
+
 7. 可以接触到赛题相关数据的人员，其提交结果将不计入排行榜及评奖。
+
 8. **评测任务技术报告未通过评审的参赛队伍将失去评奖资格。**
+
 9. **评测环节、评测数据一切最终解释权归评测组织方所有。**
+
 10. **成功报名评测视同接受此规则及组织方对此规则进行的后续修改。**
 
 ## 9 结果公布
